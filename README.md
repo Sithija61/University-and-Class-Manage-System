@@ -39,3 +39,7 @@ A simple **University Management System** built with **PHP** and **MySQL** to ma
 - **Backend:** PHP (Server-side scripting)
 - **Database:** MySQL
 - **Tools:** XAMPP / WAMP / Local PHP server
+
+<img width="1920" height="1008" alt="Image" src="https://github.com/user-attachments/assets/f4095941-8cf2-41ee-8cfe-663b89b122e2" />
+<img width="1920" height="1008" alt="Image" src="https://github.com/user-attachments/assets/912330d9-bb51-49ee-901f-87dd55e93799" />
+<img width="1920" height="1008" alt="Image" src="https://github.com/user-attachments/assets/e4432647-c046-49c7-b667-a804cf15f746" />
